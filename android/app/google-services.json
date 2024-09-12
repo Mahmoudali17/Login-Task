@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25456329909",
+    "project_id": "logintask-9b308",
+    "storage_bucket": "logintask-9b308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25456329909:android:bd3c9422674fd267862afc",
+        "android_client_info": {
+          "package_name": "com.example.task1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXbQHEOn7dMcNR3bqsO-AnDvHo2EZipnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
